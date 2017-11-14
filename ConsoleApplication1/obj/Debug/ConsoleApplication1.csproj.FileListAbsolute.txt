@@ -1,0 +1,5 @@
+C:\Users\TestServer\Desktop\AddJob_Sel\AddJob_Selenium\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\TestServer\Desktop\AddJob_Sel\AddJob_Selenium\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\TestServer\Desktop\AddJob_Sel\AddJob_Selenium\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\TestServer\Desktop\AddJob_Sel\AddJob_Selenium\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\TestServer\Desktop\AddJob_Sel\AddJob_Selenium\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
